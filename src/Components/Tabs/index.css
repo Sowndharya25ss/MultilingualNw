@@ -1,0 +1,31 @@
+.active-tab {
+  background-color: #db1c48;
+  color: #ffffff;
+  height: 2.5rem;
+  width: 7rem;
+  border-radius: 2rem;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 50px;
+  cursor: pointer;
+  list-style: none;
+  border-width: 0px;
+}
+
+.normal-tab {
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  height: 2.5rem;
+  width: 7rem;
+  border-radius: 2rem;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 50px;
+  cursor: pointer;
+  list-style: none;
+  background-color: transparent;
+}
